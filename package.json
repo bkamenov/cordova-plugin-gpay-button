@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-gpay-button",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Cordova plugin for displaying Google Pay Button",
   "license": "MIT",
   "keywords": [
@@ -18,12 +18,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/cordova-plugin-gpay-button.git"
+    "url": "https://github.com/bkamenov/cordova-plugin-gpay-button.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/cordova-plugin-gpay-button/issues"
+    "url": "https://github.com/bkamenov/cordova-plugin-gpay-button/issues"
   },
-  "author": "Your Name <your.email@example.com>",
+  "author": "Boris Kamenov",
   "cordova": {
     "id": "cordova-plugin-gpay-button",
     "platforms": [
