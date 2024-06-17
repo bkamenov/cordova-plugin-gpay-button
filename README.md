@@ -7,7 +7,7 @@ A plugin to display the native GPay button as googd as possible into awebview.
 For stable relases type:
 
 ```shell
-cordova plugin add @bkamenov/cordova-plugin-gpay-button
+cordova plugin add cordova-plugin-gpay-button
 ```
 
 
